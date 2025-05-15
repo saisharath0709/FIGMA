@@ -25,3 +25,5 @@ Incorporated mouth-watering, professional photos of signature dishes to evoke cr
 **Improved Accessibility**:
 
 Enhanced color contrast, increased font sizes, and ensured keyboard and screen reader compatibility for inclusive design.
+**OUTPUT**
+[![Image](https://github.com/user-attachments/assets/2ccc13c4-0b4e-4437-9cbe-b55940896d66)]
